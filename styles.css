@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  height: 500px;
+}
+
+.text-area {
+  width: 50%;
+  height: 100%;
+}
+
+.result-area {
+  width: 50%;
+  height: 100%;
+  padding: 8px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.btn-markdown {
+  float: right;
+}
+
+.text-sucs {
+  font-size: large;
+  background-color: rgb(71, 214, 15);
+}
+
+.text-dang {
+  font-size: large;
+  background-color: red;
+}
+
